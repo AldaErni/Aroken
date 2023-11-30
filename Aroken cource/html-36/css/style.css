@@ -1,0 +1,23 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.main-block {
+    background: #e5d9e6;
+    width: 1000px;
+    height: 500px;
+    overflow: auto;
+    border-radius: 20px 0 0 20px;
+}
+
+.element {
+    border-radius: 20px;
+    background: rgb(189, 160, 135);
+    display: inline-block;
+    width: 180px;
+    height: 180px;
+    padding: 10px;
+    margin: 20px 10px 10px 5px;
+    
+}

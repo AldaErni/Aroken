@@ -1,0 +1,31 @@
+.open-sans {
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-size: 20px;
+    line-height: 30px;
+    font-style: italic;
+}
+
+.line-text {
+    text-decoration: line-through;
+}
+
+.text-center {
+    text-align: center;
+    font-family: serif;
+    font-size: 20px;
+    text-transform: uppercase;
+
+}
+
+.text-shadow {
+    text-decoration: overline;
+    text-decoration-style: wavy;
+    word-spacing: 30px;
+    text-shadow: 2px 2px 2px #421766;
+}
+
+.double-line {
+    text-decoration: underline;
+    text-decoration-style: double;
+    letter-spacing: 5px;
+}
